@@ -15,7 +15,7 @@ To run:
 - Checks status and displays if ports are enabled/disbaled in the firwalld rule.
 - Checks if item is present on the web page.
 
-## Security basics:
+## Security basics
 Updates:
 - System updates have been configured to download and install automatically
 
