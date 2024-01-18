@@ -7,6 +7,7 @@ This Bash script deploys an [e-commerce website](https://github.com/jacob5412/PH
 To run:
 - Download the e-commerce_website_deployment.sh file
 - go to the same folder the file is located. Type ```sudo ./e-commerce_website_deployment```
+- open a web browser and type ```localhost``` or ```http://127.0.0.1```
 
 ## Features
 
